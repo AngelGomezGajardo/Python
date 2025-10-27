@@ -1,0 +1,1 @@
+p_falla_de_fabrica = [90, 100]
